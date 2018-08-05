@@ -9,4 +9,7 @@
 * tensorflow 1.6
 * numpy
 
+## Usage
+python train.py, and try python train.py -h for possible input arguments.
+
 
