@@ -1,4 +1,4 @@
-# Motion-Planning-with-Reinforcement-Learning
+# Motion Planning with Reinforcement Learning
 
 
 ## Humanoid robot Poppy arm reaching movement learning with collision avoidance
@@ -21,7 +21,7 @@ python train.py, and try python train.py -h for possible input arguments.
 For example, 
 
 ### 2. Testing
-python train.py, and try python train.py -h for possible input arguments.
+python eval.py, and try python train.py -h for possible input arguments.
 For example
 
 
