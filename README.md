@@ -16,7 +16,14 @@ The implementation of this projects mainly contains two parts: environment and a
 
 
 ## Usage
+### 1. Training
 python train.py, and try python train.py -h for possible input arguments.
+For example, 
+
+### 2. Testing
+python train.py, and try python train.py -h for possible input arguments.
+For example
+
 
 ## License Information
 MIT
