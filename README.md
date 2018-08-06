@@ -21,7 +21,7 @@ python train.py, and try python train.py -h for possible input arguments.
 For example, 
 
 ### 2. Testing
-python eval.py, and try python train.py -h for possible input arguments.
+python eval.py, and try python eval.py -h for possible input arguments.
 For example
 
 
