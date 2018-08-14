@@ -9,13 +9,22 @@ The implementation of this projects mainly contains two parts: environment and a
 ## Dependencies
 * Python 2.7
 * tensorflow 1.6
-* numpy
-* tensorflow >= 1.0.1
-* pypot
-* vrep simulator ???
+* numpy 1.11.0
+* matplotlib 1.5.1
+* tensorflow 1.4.0
+* pypot 2.11.0rc5
+* vrep simulator
 
+## Installation
+pip install tensorflow-gpu==1.4.0
+pip install pypot
 
 ## Usage
+
+ git clone https://github.com/JiaojiaoYe1994/robot_motion_learning_with_reinforcement_learning.git
+ 
+ cd ./robot_motion_learning_with_reinforcement_learning/
+
 ### 1. Training
 python train.py, and try python train.py -h for possible input arguments.
 For example, 
