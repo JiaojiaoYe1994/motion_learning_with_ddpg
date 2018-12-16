@@ -1,6 +1,7 @@
  Reaching Movement Learning with Deep Reinforcement Learning
 ==============================================
 
+![](imgs/poppy.gif)
 ## Introduction 
 This project focuses on controlling Poppy Humanoid to reach a target on the table with Deep Reinforcement Learning. The target could appear at every possible point on the table. The implementation of this project mainly contains two parts: environment and algorithm. Environment, which can be modeled as Markov Decision Process, is implemented from scratch without using additional reinforcement learning libraries. 
  
